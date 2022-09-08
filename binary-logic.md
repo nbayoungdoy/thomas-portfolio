@@ -1,6 +1,6 @@
 # Binary Logic 
 
-##Truth Tables
+## Truth Tables
 ##### not
 
 | A | !A |
