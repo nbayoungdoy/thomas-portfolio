@@ -3,6 +3,6 @@ My name is Thomas. This is my pofile for IST at [mcintosh high school](https://w
 
 ## Contents
 - [Resume](Resume.md)
-
+- [binary logic](binary-logic.md)
 
 
