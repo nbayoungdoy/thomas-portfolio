@@ -18,3 +18,7 @@
 - side projects around the house
 - rebuilding golf carts
 - video games
+
+# typing
+- key learned
+ - j,f,u,r,k,d,e,i,c,g,n,space
