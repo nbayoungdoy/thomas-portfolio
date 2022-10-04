@@ -20,5 +20,6 @@
 - video games
 
 # typing
+- 32 wpm
 - key learned
  - j,f,u,r,k,d,e,i,c,g,n,space
