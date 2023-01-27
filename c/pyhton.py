@@ -1,7 +1,7 @@
 print("you spawn in a island do you want to find shelter")
 user = input ("yes/no")
 
-if user == "yes":
+if user == "yes": 
     print("you have shelter, but you are low on food, do you want to go hunting")
     user = input ("yes/no")
     if user == "yes":
